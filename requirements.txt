@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+SpeechRecognition
+deep-translator
+numpy
+pandas
+soundfile
+moviepy
